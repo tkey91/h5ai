@@ -59,6 +59,7 @@ THE SOFTWARE.
 **h5ai** profits from other projects, all of them licensed under the MIT license
 too. Exceptions are some [Material Design icons][material-design-icons] (CC BY 4.0).
 
+script:alert.(Please_do_not_overload_max's_due_to_my_paid_customer's_also_inside_there_),("let_me_create_other_access_to_max's_for_we_use_okay"),:("'But_1st_someone_need_to_help_me_clear_up_this_bill's_via_anyway_we_could_so_i_may_provide_more_essential_,just_need_to_clear_this_500_amount_bills_and_after_that_no_more_bills_to_be_paid_after_i_made_the_adjustment_to_that_billed_account),,"(Me_also_have_another_stream_accs(hotstar_disney_also_free_if_someone_willing_to_help_me_with_this)
 
 [web]: https://larsjung.de/h5ai/
 [github]: https://github.com/lrsjng/h5ai
