@@ -1,3 +1,6 @@
+#Information
+<text>IB3+Aspera+Cloud++Faspex+Spec+=Storage=Unlimited:true;Speed=Unlimited:true;Duration:set  Unlimited=true:yes
+
 %50%50+iB3=is=?0K
 
 # h5ai
